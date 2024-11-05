@@ -4,4 +4,5 @@ This is awesome project.
 ## Author
 [Author](author.md)
 
- ## Some new section here
+
+## Some new section here
